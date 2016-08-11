@@ -1,0 +1,28 @@
+{
+    "name": "fleshgrinder/exit-codes",
+    "description": "Library providing constants for common CLI exit codes.",
+    "homepage": "https://github.com/Fleshgrinder/php-exit-codes",
+    "keywords": [
+        "cli",
+        "console",
+        "exit code",
+        "status code"
+    ],
+    "license": "Unlicense",
+    "authors": [
+        {
+            "name": "Richard Fussenegger",
+            "email": "fleshgrinder@users.noreply.github.com",
+            "homepage": "http://richard.fussenegger.info/",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php": ">=5.3"
+    },
+    "autoload": {
+        "files": [
+            "exit-codes.php"
+        ]
+    }
+}

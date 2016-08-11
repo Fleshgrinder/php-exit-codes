@@ -1,0 +1,11 @@
+*               text=auto eol=lf
+
+.*              text eol=lf
+*.json          text eol=lf
+*.md            text eol=lf
+*.php           text eol=lf diff=php
+UNLICENSE       text eol=lf
+
+.gitattributes  export-ignore
+README.md       export-ignore
+UNLICENSE       export-ignore
